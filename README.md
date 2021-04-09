@@ -1,1 +1,26 @@
- OS++ is a graphically designated virtual operating system. The Graphical operating system is made with the application of Graphics codes. It is completely designed in C++ programming language & using the various in-built functions of graphic.h header file only. A detailed report (OS++ Report.pdf) is also attached with the project for kind reference.
+**OS++ => OS + C++ (Operating System in C++)**
+OS++ is a GRAPHICALLY DESIGNED virtual OPERATING SYSTEM.It is made with the application of Graphics Codes.
+OS++ is completely designed in C++ programming language using the various in-built functions of GRAPHICS.H header file ONLY.
+
+Currently OS++ has the folllowing features:
+❖ Login & Password
+❖ Desktop
+❖ Calculator
+❖ Settings
+➢ Change Password
+➢ Remove Password
+➢ Cancel
+❖ Tic Tac Toe
+❖ Screen Saver
+➢ Moving Ball
+➢ Circles
+➢ Stars
+❖ Logout
+❖ Restart
+❖ Shut Down
+
+Future scope to add more features:
+❖ Pictorial Wallpaper
+❖ Notepad
+
+A detailed report (OS++ Report.pdf) is also attached with the project for quick reference.
