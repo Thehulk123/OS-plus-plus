@@ -25,4 +25,4 @@ OS++ is a GRAPHICALLY DESIGNED virtual OPERATING SYSTEM. It is made with the app
 * Pictorial Wallpaper
 * Notepad
 
-A detailed report (OS++ Report.pdf) is also attached with the project for quick reference.
+### A detailed report (OS++ Report.pdf) is also attached with the project for quick reference.
