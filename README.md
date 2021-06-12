@@ -1,4 +1,4 @@
-# OS++ => OS + C++ (Operating System in C++)
+# OS++ (Operating System in C++)
 
 OS++ is a GRAPHICALLY DESIGNED virtual OPERATING SYSTEM. Built from scratch with the application of graphics code and completely designed in C++ programming language using the in-built functions of GRAPHICS.H header file ONLY.
 
